@@ -19,7 +19,8 @@ running the demo on an Android device. For an explanation of the source, see
 
 <!-- TODO(b/124116863): Add app screenshot. -->
 
-### Model
+### Model:
+
 For details of the model used, visit [Image classification](https://www.tensorflow.org/lite/models/image_classification/overview).
 
 Downloading, extracting, and placing the model in the assets folder is managed
