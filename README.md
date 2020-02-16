@@ -79,7 +79,7 @@ undefined for type Interpreter`), there has likely been a backwards compatible
 change to the API. You will need to run `git pull` in the examples repo to
 obtain a version that is compatible with the nightly build.</p></aside>
 
-### Step 3. Install and run the app
+### Step 3. Install and run the app:
 
 Connect the Android device to the computer and be sure to approve any ADB
 permission prompts that appear on your phone. Select `Run -> Run app.` Select
